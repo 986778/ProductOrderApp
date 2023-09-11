@@ -1,0 +1,7 @@
+D:\Session 19 of C#\ProductOrderApp\bin\Debug\ProductOrderApp.exe.config
+D:\Session 19 of C#\ProductOrderApp\bin\Debug\ProductOrderApp.exe
+D:\Session 19 of C#\ProductOrderApp\bin\Debug\ProductOrderApp.pdb
+D:\Session 19 of C#\ProductOrderApp\obj\Debug\ProductOrderApp.csproj.AssemblyReference.cache
+D:\Session 19 of C#\ProductOrderApp\obj\Debug\ProductOrderApp.csproj.CoreCompileInputs.cache
+D:\Session 19 of C#\ProductOrderApp\obj\Debug\ProductOrderApp.exe
+D:\Session 19 of C#\ProductOrderApp\obj\Debug\ProductOrderApp.pdb
